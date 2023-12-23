@@ -1,0 +1,34 @@
+body {
+  background-color: #121212;
+  color: #cac4c4;
+}
+
+#proj-title {
+  font-size: 8vw;
+  padding-left: 20px;
+}
+
+.k-list {
+  width: 500px;
+  padding: 10px;
+  background-color: #242424;
+  border-radius: 10px;
+  margin: 15px;
+}
+
+.k-title {
+  font-size: 3vw;
+  font-weight: bold;
+}
+
+.k-item {
+  font-size: 3vw;
+  background-color: #363636;
+  padding: 10px;
+  border-radius: 10px;
+  margin: 10px;
+}
+
+.flex {
+  display: flex;
+}
